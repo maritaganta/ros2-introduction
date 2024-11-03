@@ -1,4 +1,6 @@
 # ROS2 Introduction
+Author: [Huanyu Li](https://github.com/HuanyuL)
+
 This is the docker template for ROS2 tutorial and practice 
 
 ## Before build the docker
